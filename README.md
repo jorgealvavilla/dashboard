@@ -220,7 +220,7 @@
 <body>
 <div class="dashboard-wrapper" id="dashboardMain">
     <div class="header">
-        <h1>📈 Panel de Devengado · Gobiernos Locales</h1>
+        <h1>📈 Panel de Devengado del PVL · Gobiernos Locales</h1>
         <button class="btn-export" id="exportPDFBtn">📑 Exportar Dashboard a PDF</button>
     </div>
 
